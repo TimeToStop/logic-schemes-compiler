@@ -36,5 +36,6 @@ HEADERS += \
 
 DISTFILES += \
     .gitignore \
+    readme.md \
     test/test.json \
     test/use.json
